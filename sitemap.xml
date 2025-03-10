@@ -1,0 +1,38 @@
+<?xml?>
+<urlset>
+    <url>
+        <loc>
+            http://localhost:8000/post-1/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/post-2/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/about-us/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/contact-us/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/posts/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/namirk/
+        </loc>
+    </url>
+</urlset>
