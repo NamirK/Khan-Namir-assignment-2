@@ -6,6 +6,6 @@
     "dev": "wp-pwa dev",
     "start": "wp-pwa dev",
     "preview": "wp-pwa preview",
-    "build": "wp-pwa Khan-Namir-assignment-2"
+    "build": "wp-pwa build Khan-Namir-assignment-2"
   }
 }
